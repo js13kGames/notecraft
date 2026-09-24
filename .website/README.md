@@ -1,4 +1,7 @@
 ---
+genres:
+  - music
+  - sandbox
 directors_cut: https://killedbyapixel.github.io/NoteCraft/
 video: https://youtu.be/VkTBWJ1BQIE
 # See github.com/js13kGames/hello-world for supported frontmatter
